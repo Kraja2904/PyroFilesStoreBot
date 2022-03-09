@@ -12,7 +12,7 @@ This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.co
 - Save Multiple Files in Same Link. (Batch)
 
 ### Demo Bot:
-<a href="https://t.me/MediasStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/SuperFilesStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
@@ -42,7 +42,7 @@ This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.co
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/hHu2RaePhwI)
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kraja2904/PyroFilesStoreBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kraja2904/File-Store-Abir)
 
 ## Commands:
 ```
